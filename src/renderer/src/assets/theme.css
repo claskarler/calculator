@@ -1,0 +1,55 @@
+:root {
+  --bg-color: #83BBC5;
+  --btn-bg: #dffff8;
+  --btn-text: #4B5C6B;
+  --result-bg: #dffff8;
+  --result-text: #4B5C6B;
+  --dropdown-bg: #4B5C6B;
+  --dropdown-text: #D2F3EC;
+}
+
+.melon-theme {
+  --bg-color: #a0dd8f;
+  --btn-bg: #fffbe2;
+  --btn-text: #EF5B5B;
+  --result-bg: #fffbe2;
+  --result-text: #EF5B5B;
+  --dropdown-bg: #ea6d6d;
+  --dropdown-text: #fffbe2;
+}
+
+.cherry-theme {
+  --bg-color: #FFAFBD;
+  --btn-bg: #FEF2E7;
+  --btn-text: #894c3b;
+  --result-bg: #FEF2E7;
+  --result-text: #894c3b;
+  --dropdown-bg: #894c3b;
+  --dropdown-text: #ffc1cc;
+}
+
+.orange-theme {
+  --bg-color: #ffa954;
+  --btn-bg: #fff0cf;
+  --btn-text: #1c8f1c;
+  --result-bg: #fff0cf;
+  --result-text: #1c8f1c;
+  --dropdown-bg: #338f33;
+  --dropdown-text: #fff0cf;
+}
+
+:root {
+  --color-background: var(--ev-c-black);
+  --color-background-soft: var(--ev-c-black-soft);
+  --color-background-mute: var(--ev-c-black-mute);
+
+  --color-text: var(--ev-c-text-1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
