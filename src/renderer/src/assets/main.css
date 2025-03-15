@@ -59,6 +59,10 @@ button {
   border: transparent;
 }
 
+.dropdown-toggle {
+  width: 0;
+}
+
 .dropdown-menu {
   background-color: var(--dropdown-bg);
 }
